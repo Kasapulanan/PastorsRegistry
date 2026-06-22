@@ -1,0 +1,26 @@
+{
+  "name": "Convention of Philippine Baptist Churches Inc.",
+  "short_name": "CPBC App",
+  "description": "Official app of the Convention of Philippine Baptist Churches Inc. — announcements, resources, directories, and more.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b1528",
+  "theme_color": "#1a3a6b",
+  "categories": ["education", "lifestyle"],
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
